@@ -1,4 +1,4 @@
-# -state-of-the-art- Development Paper
+# state-of-the-art Development Paper
 
 
 ###  MICCAI 2021: Medical Image Computing and Computer Assisted Intervention – MICCAI 2021 
